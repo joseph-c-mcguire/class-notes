@@ -32,11 +32,3 @@ This repository contains a comprehensive collection of notes and materials from 
 ## Usage
 
 This repository is intended for personal use and as a resource for students and educators in the field of mathematics. Feel free to explore the notes and materials, and use them as a reference for your own studies or teaching.
-
-## Contributing
-
-Contributions are welcome! If you have notes or materials that you would like to add to this repository, please submit a pull request.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
